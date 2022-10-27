@@ -1,3 +1,4 @@
+# Author: 0xYazuko, Lirox
 import base64
 from cgitb import text
 from logging import root
