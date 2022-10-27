@@ -107,14 +107,14 @@ class App:
         return m     
         
     def About(self):
-        messagebox.showinfo("Info", "Pour toute question(s) ou autre(s) merci de contacter sur Discord : $$$#7296 ou 0xYazuko#9521") 
+        messagebox.showinfo("Info", "Pour toute question(s) ou autre(s) merci de nous contacter sur Discord : $$$#7296 ou 0xYazuko#9521") 
         messagebox.showinfo("Project", "Project made by Lirox's and Yazuko 2022®")
 
     def  Discord(self):
         messagebox.showinfo("Discord", "$$$#7296 and 0xYazuko #9521")
     
     def Origine(self): 
-        messagebox.showinfo("Origine", "L'origine de £ncrypt viens tout simplement d'une idee de Yazuko et Lirox's ce projet est à la base fait pour vous simplifiez la vie.(Encrypter)")
+        messagebox.showinfo("Origine", "L'origine de £ncrypt viens tout simplement d'une idee de Yazuko et Lirox's ce projet est à la base fait pour vous simplifier la vie.(Encrypter)")
 
      
 
